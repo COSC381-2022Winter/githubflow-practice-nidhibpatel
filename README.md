@@ -9,3 +9,5 @@ Steps:
 5) Initialize the database: `flask init-db`After the database is initialized the database file is at `instance/flaskr.sqlite`
 6) Start the website: `flask run`
 7) http://127.0.0.1:5000/movies/ 
+8) To stop the app you can hit `ctrl + c`
+9) If the virtual envirnment is no longer needed, it can be deativated by entering `deactivate`
